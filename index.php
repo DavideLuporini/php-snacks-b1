@@ -35,6 +35,7 @@ if(isset($_GET['age']) && is_numeric($age)){
     $age_ok = true;;
 }
 
+// controllo accesso
 if($name_ok === true && $mail_ok === true && $age_ok === true){
     echo $success;
 }else{
