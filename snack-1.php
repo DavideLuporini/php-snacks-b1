@@ -54,7 +54,7 @@ if($name_ok === true && $mail_ok === true && $age_ok === true){
 <body>
     <h1>
     </h1>
-   <form action="index.php" method="GET">
+   <form action="snack-1.php" method="GET">
    <input type="text" placeholder="name" name="name">
    <input type="mail" placeholder="mail" name="mail">
    <input type="text" placeholder="age" name="age">

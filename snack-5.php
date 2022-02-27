@@ -34,7 +34,7 @@ $db = [
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
 </head>
-<style lang="scss">
+<style>
     ul{
         list-style: none;
     }
